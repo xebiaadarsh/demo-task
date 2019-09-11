@@ -1,0 +1,40 @@
+.overlay {
+    position: absolute;
+    width: 95.5%;
+    height: 59%;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 2;
+  }
+  .button-wrapper1{
+    height: 34px;
+    border-radius: 16.5px;
+    background-color: #ffffff; 
+    width: 135px;
+    position: absolute;
+    bottom: 10px;
+    left: 30px;
+    text-align: center;
+    padding-right: 5px;
+    z-index: 99;
+  }
+  .button-wrapper2{
+    height: 34px;
+    border-radius: 16.5px;
+    background-color: #ffffff; 
+    width: 93px;
+    position: absolute;
+    bottom: 10px;
+    left: 180px;
+    text-align: center;
+    padding-right: 5px;
+    z-index: 99;
+  }
+  .text-college-wrapper{
+    position: absolute;
+    bottom: 15px;
+    right: 35px;
+    font-size: 13.5px;
+    color: #ffffff;
+    font-weight: 500;
+    z-index: 99;
+  }

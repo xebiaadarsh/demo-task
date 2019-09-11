@@ -1,0 +1,152 @@
+.description-content{
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
+.text-wrapper{
+    padding-top: 10px;
+}
+.college-title-text{
+    font-size: 18.5px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.97;
+  letter-spacing: normal;
+  color: #444444;
+  padding-top: 18px;
+}
+.price-wrapper{
+    text-align: right;
+    padding-right: 27px;
+    padding-top: 5px;
+}
+.price-text{
+    font-size: 11px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.64;
+  letter-spacing: normal;
+  text-align: center;
+  color: #444444;
+}
+.address-wrapper{
+  padding-top: 5px;
+  padding-bottom: 5px; 
+}
+.address-text{
+    font-size: 13.5px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #adadad;
+}
+
+.offers{
+    margin-left: -15px; 
+}
+.offers-text{
+    height: 35px;
+    background-color: #ccf5e7;
+    border-radius: 0 30px 30px 0px;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+.price-section{
+    text-align: right;
+    padding-right: 27px;
+}
+.facilities-text{
+    font-size: 13.5px;
+  font-weight: bold;
+  padding-top: 16px;
+}
+.price-tag{
+  font-size: 28.5px;
+  font-weight: bold;
+  color: #dd1c26;
+}
+.info-text{
+    font-size: 11px;
+    font-weight: normal;
+    color: #444444;
+    padding-bottom: 16px;
+}
+.top-position{
+  padding-top: 0;
+  margin-top: -10px;
+}
+.star-container{
+  margin-left: 10px;
+}
+.fa-star{
+  color: #444444;
+}
+.fa-star:last-child{
+  color: #e0ded7
+}
+.discount-text{
+  font-size: 13.5px;
+  font-weight: bold;
+  padding-right: 0;
+}
+.pricetag{
+  white-space:nowrap;
+  position:relative;
+  margin:0 -7px 0 10px;
+  displaY:inline-block;
+  height:25px;
+  border-radius: 0 5px 5px 0;
+  padding: 0 25px 0 15px;
+  background:red;
+  border: 1px solid red;
+  color:#ffffff;
+  line-height:23px;
+  transform: scale(0.6);
+}
+.pricetag:after{
+  position:absolute;
+  right:0;
+  margin:1px 7px;
+  font-weight:bold;
+  font-size:19px;
+}
+.pricetag:before{
+  position:absolute;
+  background:red;
+  content:"\25CF";
+  color:white;
+  text-shadow: 0 0 1px #aaa;
+  font-size:12px;
+  line-height:13px;
+  text-indent:6px;
+  top:3px;
+  left:-10px;
+  width: 18px;
+  height: 18px;
+  transform: rotate(45deg);
+  border-left:1px solid red;
+  border-bottom:1px solid red;
+}
+.dealTag{
+  background-color: #4bb89e;
+  color: #ffffff;
+  width: 60px;
+}
+.dealTag-text{
+  padding-left: 5px;
+  font-size: 13.5px;
+  font-weight: 500;
+}
+.arrow-left{
+  position: absolute;
+  width: 0;
+  top: 0;
+  height: 0;
+  border-top: 12px solid transparent;
+  border-bottom: 12px solid transparent;
+  border-right: 12px solid white;
+  right: -11px;
+}

@@ -1,0 +1,37 @@
+.promote-wrapper{
+    position: absolute;
+    z-index: 9;
+    right: 16px;
+    top: 41px;
+}
+.rectangle{
+    width: 140px;
+    height: 33px;
+    background-color: #419bf9;
+}
+.triangle-right{
+    width: 0;
+    height: 0;
+    top: -9px;
+    border-top: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+    border-left: 20px solid white;
+    position: absolute;
+}
+.promoted-text{
+    background: #419bf9;
+    color: #ffffff;
+    padding-left: 55px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+.extra-div{
+    width: 20px;
+    background-color: #7d7676;
+    height: 21px;
+    position: absolute;
+    top: 9px;
+    border-top: 20px solid transparent;
+    border-right: 20px solid #419bf9;
+}
